@@ -1,5 +1,5 @@
 # DataScienceProject2023
-Data Science Project (#40693) at TU Berlin on the topic of "Question Generation and Evaluation Using Large Language Models" done by Lara Wallburg, Wen Zhang, Dario Klepoch, Artur Dox and supervised by Pedram Babakhani. 
+Data Science Project (#40693) at TU Berlin on the topic of "Question Generation and Evaluation Using Large Language Models" done by [Lara Wallburg](https://github.com/lrwllbrg), [Wen Zhang](https://github.com/viv1en), [Dario Klepoch](https://github.com/CaptainDario), [Artur Dox](https://github.com/ArturDev42) and supervised by [Pedram Babakhani](https://github.com/PedramBabakhani). 
 
 ## Abstract
 Recently, Large Language Models have found wide
